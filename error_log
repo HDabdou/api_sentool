@@ -1,0 +1,88 @@
+[20-Jul-2020 19:33:46 UTC] PHP Notice:  Undefined variable: app in /home/icoeursa/public_html/i_coeure_backend/app/dependencies.php on line 5
+[20-Jul-2020 19:33:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getContainer() on null in /home/icoeursa/public_html/i_coeure_backend/app/dependencies.php:5
+Stack trace:
+#0 /home/icoeursa/public_html/i_coeure_backend/index.php(14): require()
+#1 {main}
+  thrown in /home/icoeursa/public_html/i_coeure_backend/app/dependencies.php on line 5
+[20-Jul-2020 19:45:40 UTC] PHP Notice:  Undefined variable: app in /home/icoeursa/public_html/i_coeure_backend/app/dependencies.php on line 5
+[20-Jul-2020 19:45:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getContainer() on null in /home/icoeursa/public_html/i_coeure_backend/app/dependencies.php:5
+Stack trace:
+#0 /home/icoeursa/public_html/i_coeure_backend/index.php(14): require()
+#1 {main}
+  thrown in /home/icoeursa/public_html/i_coeure_backend/app/dependencies.php on line 5
+[20-Jul-2020 19:50:33 UTC] PHP Notice:  Undefined variable: app in /home/icoeursa/public_html/i_coeure_backend/app/dependencies.php on line 5
+[20-Jul-2020 19:50:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getContainer() on null in /home/icoeursa/public_html/i_coeure_backend/app/dependencies.php:5
+Stack trace:
+#0 /home/icoeursa/public_html/i_coeure_backend/index.php(14): require()
+#1 {main}
+  thrown in /home/icoeursa/public_html/i_coeure_backend/app/dependencies.php on line 5
+[20-Jul-2020 20:41:14 UTC] PHP Warning:  require(/home/icoeursa/public_html/i_coeure_backendconfig/default.php): failed to open stream: No such file or directory in /home/icoeursa/public_html/i_coeure_backend/index.php on line 15
+[20-Jul-2020 20:41:14 UTC] PHP Warning:  require(/home/icoeursa/public_html/i_coeure_backendconfig/default.php): failed to open stream: No such file or directory in /home/icoeursa/public_html/i_coeure_backend/index.php on line 15
+[20-Jul-2020 20:41:14 UTC] PHP Fatal error:  require(): Failed opening required '/home/icoeursa/public_html/i_coeure_backendconfig/default.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/icoeursa/public_html/i_coeure_backend/index.php on line 15
+[21-Jul-2020 10:57:00 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 264
+[21-Jul-2020 13:18:59 UTC] PHP Notice:  Undefined property: stdClass::$tel2 in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 38
+[21-Jul-2020 13:19:08 UTC] PHP Notice:  Undefined property: stdClass::$tel2 in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 38
+[21-Jul-2020 13:47:20 UTC] PHP Notice:  Undefined property: stdClass::$tel2 in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 38
+[21-Jul-2020 13:53:23 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[21-Jul-2020 13:54:34 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[21-Jul-2020 14:21:55 UTC] PHP Notice:  Undefined property: stdClass::$tel2 in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 38
+[21-Jul-2020 14:40:11 UTC] PHP Notice:  Undefined property: stdClass::$tel2 in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 38
+[21-Jul-2020 14:48:00 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[21-Jul-2020 15:15:19 UTC] PHP Notice:  Undefined property: stdClass::$tel2 in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 38
+[21-Jul-2020 15:16:31 UTC] PHP Notice:  Undefined property: stdClass::$tel2 in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 38
+[21-Jul-2020 15:17:13 UTC] PHP Notice:  Undefined property: stdClass::$tel2 in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 38
+[21-Jul-2020 15:18:04 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[21-Jul-2020 15:18:07 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[21-Jul-2020 15:19:59 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[21-Jul-2020 15:20:50 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[21-Jul-2020 17:37:56 UTC] PHP Warning:  move_uploaded_file(../../../images/uploaded/1595353076): failed to open stream: No such file or directory in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1069
+[21-Jul-2020 17:37:56 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFqBNGK' to '../../../images/uploaded/1595353076' in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1069
+[21-Jul-2020 17:38:19 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[21-Jul-2020 17:38:20 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[21-Jul-2020 17:39:55 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[21-Jul-2020 17:40:59 UTC] PHP Warning:  move_uploaded_file(../../../images/uploaded/1595353259): failed to open stream: No such file or directory in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1069
+[21-Jul-2020 17:40:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnYAf97' to '../../../images/uploaded/1595353259' in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1069
+[21-Jul-2020 17:44:59 UTC] PHP Warning:  move_uploaded_file(icoeursam.com/images/uploaded/1595353499): failed to open stream: No such file or directory in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1069
+[21-Jul-2020 17:44:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpCLOyLX' to 'icoeursam.com/images/uploaded/1595353499' in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1069
+[21-Jul-2020 19:50:40 UTC] PHP Warning:  move_uploaded_file(icoeursam.com/images/uploaded/1595361040): failed to open stream: No such file or directory in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1069
+[21-Jul-2020 19:50:40 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphrixd5' to 'icoeursam.com/images/uploaded/1595361040' in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1069
+[21-Jul-2020 19:51:19 UTC] PHP Warning:  move_uploaded_file(icoeursam.com/images/uploaded/1595361079): failed to open stream: No such file or directory in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1069
+[21-Jul-2020 19:51:19 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAWsren' to 'icoeursam.com/images/uploaded/1595361079' in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1069
+[21-Jul-2020 19:51:57 UTC] PHP Warning:  move_uploaded_file(icoeursam.com/images/uploaded/1595361117): failed to open stream: No such file or directory in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1069
+[21-Jul-2020 19:51:57 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpB601L8' to 'icoeursam.com/images/uploaded/1595361117' in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1069
+[21-Jul-2020 19:51:58 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[21-Jul-2020 20:15:36 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[21-Jul-2020 20:15:42 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[22-Jul-2020 12:47:06 UTC] PHP Notice:  Undefined index: param in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1061
+[22-Jul-2020 12:47:07 UTC] PHP Notice:  Undefined index: param in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1061
+[22-Jul-2020 12:47:09 UTC] PHP Notice:  Undefined index: param in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1061
+[22-Jul-2020 12:47:14 UTC] PHP Notice:  Undefined index: param in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1061
+[22-Jul-2020 13:15:16 UTC] PHP Notice:  Undefined index: param in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1061
+[22-Jul-2020 13:15:34 UTC] PHP Notice:  Undefined index: param in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 1061
+[26-Jul-2020 13:17:50 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[26-Jul-2020 13:17:53 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[26-Jul-2020 13:17:55 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[26-Jul-2020 13:17:57 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[26-Jul-2020 13:17:58 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[26-Jul-2020 13:18:05 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[26-Jul-2020 13:18:07 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[26-Jul-2020 13:18:13 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[26-Jul-2020 13:20:42 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[26-Jul-2020 13:20:54 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[26-Jul-2020 13:21:05 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 269
+[27-Jul-2020 13:01:23 UTC] PHP Notice:  Undefined property: stdClass::$numeroDossier in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 129
+[27-Jul-2020 13:01:23 UTC] PHP Notice:  Undefined property: stdClass::$positionAortique_tailleValve in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 137
+[27-Jul-2020 13:01:23 UTC] PHP Notice:  Undefined property: stdClass::$plastieStricuspide_typePlastie in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 141
+[27-Jul-2020 13:07:46 UTC] PHP Notice:  Undefined property: stdClass::$numeroDossier in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 129
+[27-Jul-2020 13:07:46 UTC] PHP Notice:  Undefined property: stdClass::$positionAortique_tailleValve in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 137
+[27-Jul-2020 13:07:46 UTC] PHP Notice:  Undefined property: stdClass::$plastieStricuspide_typePlastie in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 141
+[27-Jul-2020 15:36:45 UTC] PHP Notice:  Undefined property: stdClass::$inr_cible_min in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 144
+[27-Jul-2020 15:36:45 UTC] PHP Notice:  Undefined property: stdClass::$inr_cible_max in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 145
+[29-Jul-2020 12:50:07 UTC] PHP Notice:  Undefined property: stdClass::$numeroDossier in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 127
+[29-Jul-2020 12:52:11 UTC] PHP Notice:  Undefined property: stdClass::$numeroDossier in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 127
+[30-Jul-2020 11:53:55 UTC] PHP Notice:  Undefined property: stdClass::$avk in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 157
+[01-Aug-2020 08:19:59 UTC] PHP Notice:  Undefined property: stdClass::$heparine in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 176
+[01-Aug-2020 08:19:59 UTC] PHP Notice:  Undefined property: stdClass::$heure_prise_avk in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 177
+[01-Aug-2020 08:19:59 UTC] PHP Notice:  Undefined property: stdClass::$dose_avk in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 178
+[01-Aug-2020 08:19:59 UTC] PHP Notice:  Undefined property: stdClass::$date_debut_heparine in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 179
+[01-Aug-2020 08:19:59 UTC] PHP Notice:  Undefined property: stdClass::$date_fin_heparine in /home/icoeursa/public_html/i_coeure_backend/app/Controllers/icoureController.php on line 180
